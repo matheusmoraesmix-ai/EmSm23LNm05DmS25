@@ -106,6 +106,8 @@ http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/BAND_SPORTS.png" group-title="Esportes",BAND SPORTS
 http://45.190.28.50/BAND_SPORTS_HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/SPORTV3.png" group-title="Esportes"SPORTV 3
+http://170.83.49.66:8083/SPORTV3HD/index.m3u8
 
 
 
@@ -225,6 +227,9 @@ http://45.190.28.50/TLC_HD/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/GLOBO_NEWS.png" group-title="Noticias",GLOBO NEWS
+http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/sbt.png" group-title="Noticias",SBT NEWS
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 
@@ -236,6 +241,7 @@ http://45.190.28.50/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/BAND_NEWS.png" group-title="Noticias",BAND NEWS
 http://45.190.28.50/BAND_NEWS_HD/index.m3u8
+
 
 
 
