@@ -9,7 +9,7 @@ http://45.190.28.50/SBT_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/RECORD.png" group-title="Canais Abertos",RECORD
 http://45.190.28.50/RECORD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/BAND.png" group-title="Canais Abertos",Band
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/BAND.png" group-title="Canais Abertos",BAND
 http://45.190.28.50/BAND_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/REDE_TV.png" group-title="Canais Abertos",REDE TV!
