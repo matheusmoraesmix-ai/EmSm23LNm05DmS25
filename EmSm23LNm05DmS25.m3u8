@@ -211,13 +211,13 @@ http://45.190.28.50/ANIMAL_PLANET_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TRAVELBOX.png" group-title="Variedades",TRAVEL BOX
 http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/FASHIONTV.png" group-title="Canais Abertos 2",FASHION TV
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/FASHIONTV.png" group-title="Variedades",FASHION TV
 http://45.190.28.50/FASHION_TV_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/DISCOVERY_WORLD.png" group-title="Canais Abertos 2",DISCOVERY WORLD
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/DISCOVERY_WORLD.png" group-title="Variedades",DISCOVERY WORLD
 http://45.190.28.50/DISCOVERY_WORLD_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TLC.png" group-title="Canais Abertos 2",TLC
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TLC.png" group-title="Variedades",TLC
 http://45.190.28.50/TLC_HD/index.m3u8
 
 
