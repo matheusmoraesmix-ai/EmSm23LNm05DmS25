@@ -24,11 +24,6 @@ http://45.162.64.114/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TV_GAZETA.png" group-title="Canais Abertos 1",TV GAZETA
 http://45.162.64.114/GAZETA/index.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TERRA_VIVA.png" group-title="Canais Abertos 2",TERRA VIVA
 http://45.162.64.114/TERRAVIVA/index.m3u8
 
@@ -74,11 +69,6 @@ http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/REDEBRASIL.png" group-title="Canais Abertos 2",REDE BRASIL
 https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Esportes",WOOHOO!
 http://45.162.64.114/WOOHOO/index.m3u8
 
@@ -99,11 +89,6 @@ http://45.190.28.50/ESPN4_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/ESPN_6.png" group-title="Esportes",ESPN 6
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TNT.png" group-title="Filmes e Series",TNT
 http://45.190.28.50/TNT_HD/index.m3u8
@@ -153,11 +138,6 @@ http://177.52.24.163/TELECINE-PIPOCA-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TCCult.png" group-title="Filmes e Series",TELECINE CULT
 http://177.52.24.163/TELECINE-CULT-HD/index.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/HISTORY.png" group-title="Documentarios",HISTORY
 http://45.190.28.50/HISTORY_HD/index.m3u8
 
@@ -176,21 +156,11 @@ http://45.190.28.50/DISCOVERY_SCIENCE_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/ANIMAL_PLANET.png" group-title="Documentarios",ANIMAL PLANET
 http://45.190.28.50/ANIMAL_PLANET_HD/index.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TRAVELBOX.png" group-title="Variedades",TRAVEL BOX
 http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/FASHIONTV.png" group-title="Canais Abertos 2",FASHION TV
 http://45.190.28.50/FASHION_TV_HD/index.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/sbt.png" group-title="Noticias",SBT NEWS
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
@@ -200,11 +170,6 @@ http://45.190.28.50/RECORD_NEWS_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Noticias",CNBC
 http://45.190.28.50/CNBC/index.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/GLOBINHO.png" group-title="Infantis",GLOOBINHO
 http://177.52.24.163/GLOOBINHO-HD/index.m3u8
@@ -223,11 +188,6 @@ http://45.190.28.50/RATIMBUM/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Infantis",ADULT SWIM
 http://45.190.28.50/TRUTV_HD/index.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/NOVO_TEMPO.png" group-title="Religiosos",NOVO TEMPO
 http://45.162.64.114/NOVO_TEMPO/index.m3u8
