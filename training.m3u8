@@ -44,9 +44,6 @@ http://45.162.64.114/CANAL_DO_BOI/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Canais Abertos 2",CANAL 21
 http://170.84.165.204:80/CANAL_21_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/FASHIONTV.png" group-title="Canais Abertos 2",FASHION TV
-http://45.190.28.50/FASHION_TV_HD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Canais Abertos 2",REDE FAMILIA
 http://168.197.104.22:80/REDE_FAMILIA/index.m3u8
 
@@ -186,6 +183,9 @@ http://45.190.28.50/ANIMAL_PLANET_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TRAVELBOX.png" group-title="Variedades",TRAVEL BOX
 http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/FASHIONTV.png" group-title="Canais Abertos 2",FASHION TV
+http://45.190.28.50/FASHION_TV_HD/index.m3u8
 
 
 
