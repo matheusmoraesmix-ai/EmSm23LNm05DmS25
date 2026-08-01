@@ -248,7 +248,7 @@ http://45.185.11.126:8000/play/a09k/index.m3u8
 http://45.190.28.50/DISCOVERY_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/DISCOVERY_ID.png" group-title="Documentarios",DISCOVERY ID
-http://45.185.11.126:8000/play/a08r/index.m3u8
+http://45.185.11.126:8000/play/a089/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/DISCOVERY_SCIENCE.png" group-title="Documentarios",DISCOVERY SCIENCE
 http://45.185.11.126:8000/play/a077/index.m3u8
