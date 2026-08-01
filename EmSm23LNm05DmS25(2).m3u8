@@ -207,7 +207,7 @@ http://45.185.11.126:8000/play/a08g/index.m3u8
 http://45.185.11.126:8000/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/HBO.png" group-title="Filmes e Series",HBO
-http://45.185.11.126:8000/play/a0al/index.m3u8
+http://45.185.11.126:8000/play/a08n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/HBO_2.png" group-title="Filmes e Series",HBO 2
 http://45.185.11.126:8000/play/a08o/index.m3u8
