@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Neywerson/GuideTV/BR2/meuguia.tv.xml"
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/BAND.png" group-title="Canais Abertos 1",BAND
 http://45.190.28.50/BAND_HD/index.m3u8
@@ -9,17 +9,17 @@ http://45.190.28.50/GLOBO_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/sbt.png" group-title="Canais Abertos 1",SBT
 http://45.190.28.50/SBT_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/RECORD.png" group-title="Canais Abertos 1",RECORD
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/RECORD.png" group-title="Canais Abertos 1",RECORD TV
 http://45.190.28.50/RECORD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/REDE_TV.png" group-title="Canais Abertos 1",REDE TV!
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/REDE_TV.png" group-title="Canais Abertos 1",REDE TV
 http://45.190.28.50/REDE_TV_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/CULTURA.png" group-title="Canais Abertos 1",TV CULTURA
+http://45.162.64.114/TV_CULTURA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/FUTURA.png" group-title="Canais Abertos 1",FUTURA
 http://45.162.64.114/FUTURA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/CULTURA.png" group-title="Canais Abertos 1",CULTURA
-http://45.162.64.114/TV_CULTURA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TV_GAZETA.png" group-title="Canais Abertos 1",TV GAZETA
 http://45.162.64.114/GAZETA/index.m3u8
@@ -71,7 +71,7 @@ http://streaming.procergs.com.br:1935/tve/stve/chunklist_w690564606.m3u8
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Canais Abertos 2",TV ESCOLA
 http://45.190.28.50/TV_ESCOLA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TV_JUSTICA.png" group-title="Canais Abertos 2",TV JUSTICA
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TV_JUSTICA.png" group-title="Canais Abertos 2",TV JUSTIÇA
 http://45.162.64.114/TV_JUSTICA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TV_SENADO.png" group-title="Canais Abertos 2",TV SENADO
@@ -186,7 +186,7 @@ http://45.185.11.126:8000/play/a082/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/HBO_SIGNATURE.png" group-title="Filmes e Series",HBO SIGNATURE
 http://45.185.11.126:8000/play/a08r/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/HBO_PLUS.png" group-title="Filmes e Series",HBO+
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/HBO_PLUS.png" group-title="Filmes e Series",HBO PLUS
 http://45.185.11.126:8000/play/a08p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/LIFETIME.png" group-title="Filmes e Series",LIFETIME
@@ -195,7 +195,7 @@ http://45.185.11.126:8000/play/a06l/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/MEGAPIX.png" group-title="Filmes e Series",MEGAPIX
 http://45.185.11.126:8000/play/a057/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/SONY.png" group-title="Filmes e Series",SONY
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/SONY.png" group-title="Filmes e Series",SONY CHANNEL
 http://138.255.2.6:8084/SONY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/SONY.png" group-title="Filmes e Series",SONY MOVIES
@@ -244,7 +244,7 @@ http://45.185.11.126:8000/play/a0am/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/ANIMAL_PLANET.png" group-title="Documentarios",ANIMAL PLANET
 http://45.185.11.126:8000/play/a09k/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/DISCOVERY.png" group-title="Documentarios",DISCOVERY
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/DISCOVERY.png" group-title="Documentarios",DISCOVERY CHANNEL
 http://45.190.28.50/DISCOVERY_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/DISCOVERY_ID.png" group-title="Documentarios",DISCOVERY ID
@@ -270,7 +270,7 @@ http://45.190.28.50/H2_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/BIS.png" group-title="Variedades",BIS
 http://45.185.11.126:8000/play/a07w/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/DISCOVERY_H_H.png" group-title="Variedades",DISCOVERY H & H
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/DISCOVERY_H_H.png" group-title="Variedades",DISCOVERY H&H
 http://45.185.11.126:8000/play/a07y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/DISCOVERY_WORLD.png" group-title="Variedades",DISCOVERY WORLD
@@ -285,7 +285,7 @@ http://45.185.11.126:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TLC.png" group-title="Variedades",TLC
 http://45.185.11.126:8000/play/a0aa/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TRAVELBOX.png" group-title="Variedades",TRAVEL BOX
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TRAVELBOX.png" group-title="Variedades",TRAVEL BOX BRAZIL
 http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8
 
 
