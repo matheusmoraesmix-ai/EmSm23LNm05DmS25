@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Neywerson/GuideTV/BR2/meuguia.tv.xml"
+#EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/matheusmoraesmix-ai/EmSm23LNm05DmS25@latest/meuguia.tv.xml"
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/BAND.png" group-title="Canais Abertos 1",BAND
 http://45.190.28.50/BAND_HD/index.m3u8
