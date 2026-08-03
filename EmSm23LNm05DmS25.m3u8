@@ -1,27 +1,27 @@
-#EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/matheusmoraesmix-ai/EmSm23LNm05DmS25@latest/meuguia.tv.xml"
+#EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/matheusmoraesmix-ai/EmSm23LNm05DmS25@latest/meuguia.tv.xml.gz"
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/BAND.png" group-title="Canais Abertos 1",BAND
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND" tvg-logo="https://logos.imperioapps.top/BAND.png" group-title="Canais Abertos 1",BAND
 http://45.190.28.50/BAND_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/globo.png" group-title="Canais Abertos 1",GLOBO
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO" tvg-logo="https://logos.imperioapps.top/globo.png" group-title="Canais Abertos 1",GLOBO
 http://45.190.28.50/GLOBO_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/sbt.png" group-title="Canais Abertos 1",SBT
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logos.imperioapps.top/sbt.png" group-title="Canais Abertos 1",SBT
 http://45.190.28.50/SBT_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/RECORD.png" group-title="Canais Abertos 1",RECORD TV
+#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD TV" tvg-logo="https://logos.imperioapps.top/RECORD.png" group-title="Canais Abertos 1",RECORD TV
 http://45.190.28.50/RECORD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/REDE_TV.png" group-title="Canais Abertos 1",REDE TV
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="REDE TV" tvg-logo="https://logos.imperioapps.top/REDE_TV.png" group-title="Canais Abertos 1",REDE TV
 http://45.190.28.50/REDE_TV_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/CULTURA.png" group-title="Canais Abertos 1",TV CULTURA
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="TV CULTURA" tvg-logo="https://logos.imperioapps.top/CULTURA.png" group-title="Canais Abertos 1",TV CULTURA
 http://45.162.64.114/TV_CULTURA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/FUTURA.png" group-title="Canais Abertos 1",FUTURA
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="https://logos.imperioapps.top/FUTURA.png" group-title="Canais Abertos 1",FUTURA
 http://45.162.64.114/FUTURA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TV_GAZETA.png" group-title="Canais Abertos 1",TV GAZETA
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA" tvg-logo="https://logos.imperioapps.top/TV_GAZETA.png" group-title="Canais Abertos 1",TV GAZETA
 http://45.162.64.114/GAZETA/index.m3u8
 
 
