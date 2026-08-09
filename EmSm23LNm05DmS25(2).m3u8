@@ -1,470 +1,320 @@
-#EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/matheusmoraesmix-ai/EmSm23LNm05DmS25@latest/meuguia.tv.xml.gz"
 
-#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND" tvg-logo="https://logos.imperioapps.top/BAND.png" group-title="Canais Abertos 1",BAND
-#EXTVLCOPT:network-caching=1000
-http://45.190.28.50/BAND_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO" tvg-logo="https://logos.imperioapps.top/globo.png" group-title="Canais Abertos 1",GLOBO
-#EXTVLCOPT:network-caching=1000
-http://45.190.28.50/GLOBO_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://logos.imperioapps.top/sbt.png" group-title="Canais Abertos 1",SBT
-#EXTVLCOPT:network-caching=1000
-http://45.190.28.50/SBT_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD TV" tvg-logo="https://logos.imperioapps.top/RECORD.png" group-title="Canais Abertos 1",RECORD TV
-#EXTVLCOPT:network-caching=1000
-http://45.190.28.50/RECORD/index.m3u8
-
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="REDE TV" tvg-logo="https://logos.imperioapps.top/REDE_TV.png" group-title="Canais Abertos 1",REDE TV
-#EXTVLCOPT:network-caching=1000
-http://45.190.28.50/REDE_TV_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="TV CULTURA" tvg-logo="https://logos.imperioapps.top/CULTURA.png" group-title="Canais Abertos 1",TV CULTURA
-#EXTVLCOPT:network-caching=1000
-http://45.162.64.114/TV_CULTURA/index.m3u8
-
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="https://logos.imperioapps.top/FUTURA.png" group-title="Canais Abertos 1",FUTURA
-#EXTVLCOPT:network-caching=1000
-http://45.162.64.114/FUTURA/index.m3u8
-
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA" tvg-logo="https://logos.imperioapps.top/TV_GAZETA.png" group-title="Canais Abertos 1",TV GAZETA
-#EXTVLCOPT:network-caching=1000
-http://45.162.64.114/GAZETA/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/AGRO_CANAL.png" group-title="Canais Abertos 2",AGRO CANAL
-#EXTVLCOPT:network-caching=1000
-http://45.162.64.114/AGRO_CANAL/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/AGRO%2B.png" group-title="Canais Abertos 2",AGRO+
-#EXTVLCOPT:network-caching=1000
-http://45.162.64.114/AGROMAIS/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal21.br" tvg-name="CANAL 21" tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Canais Abertos 2",CANAL 21
-#EXTVLCOPT:network-caching=1000
-http://170.84.165.204:80/CANAL_21_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://logos.imperioapps.top/CANAL_BRASIL.png" group-title="Canais Abertos 2",CANAL BRASIL
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a06x/index.m3u8
-
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI" tvg-logo="https://logos.imperioapps.top/CANAL_DO_BOI.png" group-title="Canais Abertos 2",CANAL DO BOI
-#EXTVLCOPT:network-caching=1000
-http://170.83.49.66:8083/AGROCANALHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Canais Abertos 2",CANAL EDUCACAO
-#EXTVLCOPT:network-caching=1000
-http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Canais Abertos 2",CNT
-#EXTVLCOPT:network-caching=1000
-http://45.190.28.50/CNT_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/MUSIC_BOX.png" group-title="Canais Abertos 2",MUSIC BOX
-#EXTVLCOPT:network-caching=1000
-http://45.190.28.50/MUSIC_BOX_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Canais Abertos 2",NGT
-#EXTVLCOPT:network-caching=1000
-https://isaocorp.cloudecast.com/ngt/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/REDEBRASIL.png" group-title="Canais Abertos 2",REDE BRASIL
-#EXTVLCOPT:network-caching=1000
-https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Canais Abertos 2",REDE FAMILIA
-#EXTVLCOPT:network-caching=1000
-http://168.197.104.22:80/REDE_FAMILIA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TERRA_VIVA.png" group-title="Canais Abertos 2",TERRA VIVA
-#EXTVLCOPT:network-caching=1000
-http://45.162.64.114/TERRAVIVA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TV_BRASIL.png" group-title="Canais Abertos 2",TV BRASIL
-#EXTVLCOPT:network-caching=1000
-http://streaming.procergs.com.br:1935/tve/stve/chunklist_w690564606.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Canais Abertos 2",TV ESCOLA
-#EXTVLCOPT:network-caching=1000
-http://45.190.28.50/TV_ESCOLA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TV_JUSTICA.png" group-title="Canais Abertos 2",TV JUSTIÇA
-#EXTVLCOPT:network-caching=1000
-http://45.162.64.114/TV_JUSTICA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TV_SENADO.png" group-title="Canais Abertos 2",TV SENADO
-#EXTVLCOPT:network-caching=1000
-http://45.162.64.114/TV_SENADO/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Canais Abertos 2",TVE
-#EXTVLCOPT:network-caching=1000
-http://45.190.28.50/TVE/index.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS" tvg-logo="https://logos.imperioapps.top/BAND_SPORTS.png" group-title="Esportes",BAND SPORTS
-#EXTVLCOPT:network-caching=1000
-http://138.255.2.6:8084/BANDSPORTS/index.m3u8
-
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE" tvg-logo="https://logos.imperioapps.top/COMBATE.png" group-title="Esportes",COMBATE
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a073/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://logos.imperioapps.top/ESPN.png" group-title="Esportes",ESPN
-#EXTVLCOPT:network-caching=1000
-http://45.190.28.50/ESPN_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2" tvg-logo="https://logos.imperioapps.top/ESPN_2.png" group-title="Esportes",ESPN 2
-#EXTVLCOPT:network-caching=1000
-http://45.190.28.50/ESPN2_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3" tvg-logo="https://logos.imperioapps.top/ESPN_3.png" group-title="Esportes",ESPN 3
-#EXTVLCOPT:network-caching=1000
-http://45.190.28.50/ESPN3_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4" tvg-logo="https://logos.imperioapps.top/ESPN_4.png" group-title="Esportes",ESPN 4
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a05m/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="ESPN 5" tvg-logo="https://logos.imperioapps.top/ESPN_5.png" group-title="Esportes",ESPN 5
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a05n/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/ESPN_6.png" group-title="Esportes",ESPN 6
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a084/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/FISH_TV.png" group-title="Esportes",FISH TV
-#EXTVLCOPT:network-caching=1000
-http://170.83.49.66:8083/FISHTVHD/index.m3u8
-
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SPORTV" tvg-logo="https://logos.imperioapps.top/SPORTV.png" group-title="Esportes",SPORTV
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a05g/index.m3u8
-
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SPORTV 2" tvg-logo="https://logos.imperioapps.top/SPORTV2.png" group-title="Esportes",SPORTV 2
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a05f/index.m3u8
-
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SPORTV 3" tvg-logo="https://logos.imperioapps.top/SPORTV3.png" group-title="Esportes",SPORTV 3
-#EXTVLCOPT:network-caching=1000
-http://170.83.49.66:8083/SPORTV3HD/index.m3u8
-
-#EXTINF:-1 tvg-id="WooHoo.br" tvg-name="WOOHOO" tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Esportes",WOOHOO
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a075/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="PREMIERE CLUBES" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="Premiere",PREMIERE CLUBES
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a06g/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="Premiere",PREMIERE 2
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a07v/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="Premiere",PREMIERE 3
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0av/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="Premiere",PREMIERE 4
-#EXTVLCOPT:network-caching=1000
-hhttp://45.185.11.126:8000/play/a07b/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="Premiere",PREMIERE 5
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a07c/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="Premiere",PREMIERE 6
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a05j/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="Premiere",PREMIERE 7
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a05k/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="Premiere",PREMIERE 8
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a05l/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="AE.br" tvg-name="A&E" tvg-logo="https://logos.imperioapps.top/A%26E.png" group-title="Filmes e Series",A&E
-#EXTVLCOPT:network-caching=1000
-http://45.190.28.50/AE_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" tvg-logo="https://logos.imperioapps.top/AMC.png" group-title="Filmes e Series",AMC
-#EXTVLCOPT:network-caching=1000
+#EXTM3U
+#EXTINF:11,AMC HD
 http://45.185.11.126:8000/play/a06s/index.m3u8
-
-#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN" tvg-logo="https://logos.imperioapps.top/AXN.png" group-title="Filmes e Series",AXN
-#EXTVLCOPT:network-caching=1000
-http://138.255.2.6:8084/AXN/index.m3u8
-
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX" tvg-logo="https://logos.imperioapps.top/CINEMAX.png" group-title="Filmes e Series",CINEMAX
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a081/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO" tvg-logo="https://logos.imperioapps.top/HBO.png" group-title="Filmes e Series",HBO
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08n/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2" tvg-logo="https://logos.imperioapps.top/HBO_2.png" group-title="Filmes e Series",HBO 2
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08o/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO FAMILY" tvg-logo="https://logos.imperioapps.top/HBO_FAMILY.png" group-title="Filmes e Series",HBO FAMILY
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08q/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/HBO_MUNDI.png" group-title="Filmes e Series",HBO MUNDI
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a082/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO SIGNATURE" tvg-logo="https://logos.imperioapps.top/HBO_SIGNATURE.png" group-title="Filmes e Series",HBO SIGNATURE
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08r/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO PLUS" tvg-logo="https://logos.imperioapps.top/HBO_PLUS.png" group-title="Filmes e Series",HBO PLUS
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08p/index.m3u8
-
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME" tvg-logo="https://logos.imperioapps.top/LIFETIME.png" group-title="Filmes e Series",LIFETIME
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a06l/index.m3u8
-
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX" tvg-logo="https://logos.imperioapps.top/MEGAPIX.png" group-title="Filmes e Series",MEGAPIX
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a057/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="SONY CHANNEL" tvg-logo="https://logos.imperioapps.top/SONY.png" group-title="Filmes e Series",SONY CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://138.255.2.6:8084/SONY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/SONY.png" group-title="Filmes e Series",SONY MOVIES
-#EXTVLCOPT:network-caching=1000
-http://45.162.64.114/SONY_MOVIES/index.m3u8
-
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE" tvg-logo="https://logos.imperioapps.top/SPACE.png" group-title="Filmes e Series",SPACE
-#EXTVLCOPT:network-caching=1000
-http://45.190.28.50/SPACE_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://logos.imperioapps.top/STUDIO_UNIVERSAL.png" group-title="Filmes e Series",STUDIO UNIVERSAL
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a06o/index.m3u8
-
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="TELECINE ACTION" tvg-logo="https://logos.imperioapps.top/TCAction.png" group-title="Filmes e Series",TELECINE ACTION
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a058/index.m3u8
-
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="TELECINE CULT" tvg-logo="https://logos.imperioapps.top/TCCult.png" group-title="Filmes e Series",TELECINE CULT
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a05a/index.m3u8
-
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="TELECINE FUN" tvg-logo="https://logos.imperioapps.top/TCFun.png" group-title="Filmes e Series",TELECINE FUN
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a059/index.m3u8
-
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA" tvg-logo="https://logos.imperioapps.top/TCPipoca.png" group-title="Filmes e Series",TELECINE PIPOCA
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08g/index.m3u8
-
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="https://logos.imperioapps.top/TCPremium.png" group-title="Filmes e Series",TELECINE PREMIUM
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08e/index.m3u8
-
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="TELECINE TOUCH" tvg-logo="https://logos.imperioapps.top/TCTouch.png" group-title="Filmes e Series",TELECINE TOUCH
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08f/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT" tvg-logo="https://logos.imperioapps.top/TNT.png" group-title="Filmes e Series",TNT
-#EXTVLCOPT:network-caching=1000
-http://138.255.2.6:8084/TNT/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TNT_NOVELAS.png" group-title="Filmes e Series",TNT NOVELAS
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a088/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/USANETWORK.png" group-title="Filmes e Series",USA
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a06k/index.m3u8
-
-#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="WARNER CHANNEL" tvg-logo="https://logos.imperioapps.top/WARNER_CHANNEL.png" group-title="Filmes e Series",WARNER CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0am/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET" tvg-logo="https://logos.imperioapps.top/ANIMAL_PLANET.png" group-title="Documentarios",ANIMAL PLANET
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a09k/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logos.imperioapps.top/DISCOVERY.png" group-title="Documentarios",DISCOVERY CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://45.190.28.50/DISCOVERY_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/DISCOVERY_ID.png" group-title="Documentarios",DISCOVERY ID
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a089/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://logos.imperioapps.top/DISCOVERY_SCIENCE.png" group-title="Documentarios",DISCOVERY SCIENCE
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a077/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO" tvg-logo="https://logos.imperioapps.top/DISCOVERY_TURBO.png" group-title="Documentarios",DISCOVERY TURBO
-#EXTVLCOPT:network-caching=1000
-http://45.190.28.50/DISCOVERY_TURBO_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/HISTORY.png" group-title="Documentarios",HISTORY
-#EXTVLCOPT:network-caching=1000
-http://170.83.16.50:80/HISTORY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/H2.png" group-title="Documentarios",HISTORY 2
-#EXTVLCOPT:network-caching=1000
-http://45.190.28.50/H2_HD/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS" tvg-logo="https://logos.imperioapps.top/BIS.png" group-title="Variedades",BIS
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a07w/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryHomeHealth.br" tvg-name="DISCOVERY H&H" tvg-logo="https://logos.imperioapps.top/DISCOVERY_H_H.png" group-title="Variedades",DISCOVERY H&H
-#EXTVLCOPT:network-caching=1000
-http://hls1.sua.tv/live/discoveryhehfhd/s.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD" tvg-logo="https://logos.imperioapps.top/DISCOVERY_WORLD.png" group-title="Variedades",DISCOVERY WORLD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a086/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/FASHIONTV.png" group-title="Variedades",FASHION TV
-#EXTVLCOPT:network-caching=1000
-http://45.190.28.50/FASHION_TV_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW" tvg-logo="https://logos.imperioapps.top/MULTISHOW.png" group-title="Variedades",MULTISHOW
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a07a/index.m3u8
-
-#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC" tvg-logo="https://logos.imperioapps.top/TLC.png" group-title="Variedades",TLC
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0aa/index.m3u8
-
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://logos.imperioapps.top/TRAVELBOX.png" group-title="Variedades",TRAVEL BOX BRAZIL
-#EXTVLCOPT:network-caching=1000
-http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS" tvg-logo="https://logos.imperioapps.top/BAND_NEWS.png" group-title="Noticias",BAND NEWS
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a076/index.m3u8
-
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="GLOBO NEWS" tvg-logo="https://logos.imperioapps.top/GLOBO_NEWS.png" group-title="Noticias",GLOBO NEWS
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08d/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/sbt.png" group-title="Noticias",SBT NEWS
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0a7/index.m3u8
-
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="RECORD NEWS" tvg-logo="https://logos.imperioapps.top/RECORD_NEWS.png" group-title="Noticias",RECORD NEWS
-#EXTVLCOPT:network-caching=1000
-http://138.255.2.6:8084/RECORDNEWS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Noticias",CNBC
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0a5/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Infantis",ADULT SWIM
+#EXTINF:0,AXN HD
+http://45.185.11.126:8000/play/a0ao/index.m3u8
+#EXTINF:0,Adult Swim HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06m/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Infantis",BOX KIDS
+#EXTINF:0,Animal Planet HD
 #EXTVLCOPT:network-caching=1000
-http://138.255.2.6:8084/BOXKIDS/index.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="CARTOON NETWORK" tvg-logo="https://logos.imperioapps.top/CARTOON_NETWORK.png" group-title="Infantis",CARTOON NETWORK
+http://45.185.11.126:8000/play/a09k/index.m3u8
+#EXTINF:0,BIS HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a07w/index.m3u8
+#EXTINF:0,BM&C HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06i/index.m3u8
+#EXTINF:0,Band News HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a076/index.m3u8
+#EXTINF:0,Band Sports HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a05o/index.m3u8
+#EXTINF:0,CNN Brasil Money HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0a6/index.m3u8
+#EXTINF:0,CNN International HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0ap/index.m3u8
+#EXTINF:0,Canal Brasil HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06x/index.m3u8
+#EXTINF:0,Canal Sony HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0an/index.m3u8
+#EXTINF:0,Canal UOL HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0a4/index.m3u8
+#EXTINF:0,Cartoon Network HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a087/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/DISCOVERY_KIDS.png" group-title="Infantis",DISCOVERY KIDS
+#EXTINF:0,Cartoonito HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0ae/index.m3u8
+#EXTINF:0,Cinemax HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a081/index.m3u8
+#EXTINF:0,Claro TV+ 4K
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06f/index.m3u8
+#EXTINF:0,Combate HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a073/index.m3u8
+#EXTINF:0,DUMDUM HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a078/index.m3u8
+#EXTINF:0,Disc. Home & Health HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a07y/index.m3u8
+#EXTINF:0,Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0ac/index.m3u8
+#EXTINF:0,Discovery Kids HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0ad/index.m3u8
-
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB" tvg-logo="https://logos.imperioapps.top/GLOOB.png" group-title="Infantis",GLOOB
+#EXTINF:0,Discovery Science HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a077/index.m3u8
+#EXTINF:0,Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a085/index.m3u8
+#EXTINF:0,Discovery Turbo HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a07z/index.m3u8
+#EXTINF:0,Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a086/index.m3u8
+#EXTINF:0,ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a05m/index.m3u8
+#EXTINF:0,ESPN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a05n/index.m3u8
+#EXTINF:0,ESPN 6 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a084/index.m3u8
+#EXTINF:0,Food Network HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06j/index.m3u8
+#EXTINF:0,GE TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08v/index.m3u8
+#EXTINF:0,GNT HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a079/index.m3u8
+#EXTINF:0,GloboNews HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08d/index.m3u8
+#EXTINF:0,Globoplay Novelas HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06w/index.m3u8
+#EXTINF:0,Gloob HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07v/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/GLOBINHO.png" group-title="Infantis",GLOOBINHO
+#EXTINF:0,Gloobinho HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a071/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TV_RA_TIM_BUM.png" group-title="Infantis",TV RA TIM BUM
+#EXTINF:0,HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08q/index.m3u8
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08n/index.m3u8
+#EXTINF:0,HBO MUNDI HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a082/index.m3u8
+#EXTINF:0,HBO POP HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08s/index.m3u8
+#EXTINF:0,HBO Signature HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08r/index.m3u8
+#EXTINF:0,HBO XTREME HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a083/index.m3u8
+#EXTINF:0,HBO+ HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08p/index.m3u8
+#EXTINF:0,HBO2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08o/index.m3u8
+#EXTINF:0,HGTV HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a074/index.m3u8
+#EXTINF:0,History HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0al/index.m3u8
+#EXTINF:0,ID HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a089/index.m3u8
+#EXTINF:0,JP News HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0a1/index.m3u8
+#EXTINF:0,Lifetime HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06l/index.m3u8
+#EXTINF:0,Megapix HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a057/index.m3u8
+#EXTINF:0,Modo Viagem HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a07u/index.m3u8
+#EXTINF:0,Multishow HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a07a/index.m3u8
+#EXTINF:0,OFF HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a07t/index.m3u8
+#EXTINF:0,Paramount+ 4
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0aq/index.m3u8
+#EXTINF:0,Playboy TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a09n/index.m3u8
+#EXTINF:0,Premiere 2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06h/index.m3u8
+#EXTINF:0,Premiere 3 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0av/index.m3u8
+#EXTINF:0,Premiere 4 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a07b/index.m3u8
+#EXTINF:0,Premiere 5 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a07c/index.m3u8
+#EXTINF:0,Premiere 6 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a05j/index.m3u8
+#EXTINF:0,Premiere 7 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a05k/index.m3u8
+#EXTINF:0,Premiere 8 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a05l/index.m3u8
+#EXTINF:0,Premiere Clubes HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06g/index.m3u8
+#EXTINF:0,Record News HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0a2/index.m3u8
+#EXTINF:0,SBT News HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0a7/index.m3u8
+#EXTINF:0,Space HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08b/index.m3u8
+#EXTINF:0,Studio Universal HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06o/index.m3u8
+#EXTINF:0,TIMES | EXCLUSIVO CNBC
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0a5/index.m3u8
+#EXTINF:0,TLC HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0aa/index.m3u8
+#EXTINF:0,TNT Novelas HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a088/index.m3u8
+#EXTINF:0,TNT Sports HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0bi/index.m3u8
+#EXTINF:0,TNT SØries HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08a/index.m3u8
+#EXTINF:0,TV RÆ Tim Bum HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a080/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/ZOOMOO.png" group-title="Infantis",ZOOMOO
+#EXTINF:0,Telecine Action HD
 #EXTVLCOPT:network-caching=1000
-http://138.255.2.6:8084/ZOOMOO/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/CANCAO_NOVA.png" group-title="Religiosos",CANCAO NOVA
+http://45.185.11.126:8000/play/a058/index.m3u8
+#EXTINF:0,Telecine Cult HD
 #EXTVLCOPT:network-caching=1000
-http://45.162.64.114/CANCAO_NOVA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TV_EVANGELIZAR.png" group-title="Religiosos",FONTE TV
+http://45.185.11.126:8000/play/a05a/index.m3u8
+#EXTINF:0,Telecine Fun HD
 #EXTVLCOPT:network-caching=1000
-http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/NOVO_TEMPO.png" group-title="Religiosos",NOVO TEMPO
+http://45.185.11.126:8000/play/a059/index.m3u8
+#EXTINF:0,Telecine Pipoca HD
 #EXTVLCOPT:network-caching=1000
-http://45.162.64.114/NOVO_TEMPO/index.m3u8
-
-#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="REDE VIDA" tvg-logo="https://logos.imperioapps.top/REDE_VIDA.png" group-title="Religiosos",REDE VIDA
+http://45.185.11.126:8000/play/a08g/index.m3u8
+#EXTINF:0,Telecine Premium HD
 #EXTVLCOPT:network-caching=1000
-http://45.190.28.50/REDE_VIDA_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV APARECIDA" tvg-logo="https://logos.imperioapps.top/APARECIDA.png" group-title="Religiosos",TV APARECIDA
+http://45.185.11.126:8000/play/a08e/index.m3u8
+#EXTINF:0,Telecine Touch HD
 #EXTVLCOPT:network-caching=1000
-http://138.255.2.6:8084/TVAPARECIDA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TV_EVANGELIZAR.png" group-title="Religiosos",TV EVANGELIZAR
+http://45.185.11.126:8000/play/a08f/index.m3u8
+#EXTINF:0,Trace Brasil HD
 #EXTVLCOPT:network-caching=1000
-http://45.162.64.114/EVANGELIZAR/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TV_PAI_ETERNO.png" group-title="Religiosos",TV PAI ETERNO
+http://45.185.11.126:8000/play/a08l/index.m3u8
+#EXTINF:0,Travel Food & Drinks HD
 #EXTVLCOPT:network-caching=1000
-http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
+http://45.185.11.126:8000/play/a07x/index.m3u8
+#EXTINF:0,USA HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06k/index.m3u8
+#EXTINF:0,Universal Premiere HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08m/index.m3u8
+#EXTINF:0,Universal Reality HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08c/index.m3u8
+#EXTINF:0,Universal TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0af/index.m3u8
+#EXTINF:0,Warner Channel HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0am/index.m3u8
+#EXTINF:0,Woohoo HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a075/index.m3u8
+#EXTINF:0,sportv HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a05g/index.m3u8
+#EXTINF:0,sportv2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a05f/index.m3u8
+#EXTINF:0,sportv3 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06v/index.m3u8
+
+
+#EXTINF:-1,US: ACC Network
+http://206.212.244.63/2486/index.m3u8
+#EXTINF:-1,US: Big Ten Network
+http://206.212.244.63/2489/index.m3u8
+#EXTINF:-1,US: SEC Network
+http://206.212.244.63/2511/index.m3u8
+#EXTINF:-1,USA | ACCUWEATHER
+http://206.212.244.63/3/index.m3u8
+#EXTINF:-1,USA | ACCUWEATHER
+http://206.212.244.63/674/index.m3u8
+#EXTINF:-1,USA | ESPN
+http://206.212.244.63/59/index.m3u8
+
+#EXTINF:-1,PT: EUROSPORT 1
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99481
+#EXTINF:-1,PT: EUROSPORT 2
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99482
+#EXTINF:-1,PT: SPORT TV +
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99483
+#EXTINF:-1,PT: SPORT TV 1
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99484
+#EXTINF:-1,PT: SPORT TV 2
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99485
+#EXTINF:-1,PT: SPORT TV 3
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99486
+#EXTINF:-1,PT: SPORT TV 4
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99487
+#EXTINF:-1,PT: SPORT TV 5
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99488
+#EXTINF:-1,PT: SPORT TV 6
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99489
+#EXTINF:-1,PT: SPORTING TV
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99490
+
+
+
+#EXTINF:-1,Eurosport 2  HD
+http://89.44.231.117:7000/eurosport2
+#EXTINF:-1,Eurosport HD
+http://89.44.231.117:7000/eurosport
+#EXTINF:-1,Eurosport 2 HD
+http://89.44.231.73:7000/eurosport2
+#EXTINF:-1,Eurosport HD
+http://89.44.231.73:7000/eurosport
+#EXTINF:-1,Eurosport 2 HD
+http://89.44.231.115:7000/eurosport2
+#EXTINF:-1,Eurosport HD
+http://89.44.231.115:7000/eurosport
