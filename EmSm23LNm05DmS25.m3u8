@@ -10,7 +10,7 @@ http://138.255.2.6:8084/GLOBOHD/index.m3u8
 http://138.255.2.6:8084/SBT/index.m3u8
 
 #EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD TV" tvg-logo="https://logos.imperioapps.top/RECORD.png" group-title="Canais Abertos 1",RECORD TV
-http://138.255.2.6:8084/RECORD/index.m3u8
+http://45.190.28.50/RECORD/index.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="REDE TV" tvg-logo="https://logos.imperioapps.top/REDE_TV.png" group-title="Canais Abertos 1",REDE TV
 http://45.190.28.50/REDE_TV_HD/index.m3u8
