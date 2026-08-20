@@ -93,7 +93,7 @@ http://streaming.procergs.com.br:1935/tve/stve/chunklist_w690564606.m3u8
 http://138.255.2.6:8084/BANDSPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE" tvg-logo="https://logos.imperioapps.top/COMBATE.png" group-title="Esportes",COMBATE
-http://45.185.11.126:8000/play/a073/index.m3u8
+https://raw.githubusercontent.com/embedplay/linkplay/7bd6fe101f4a05e7b9a2dc2b4184ffea11fc5977/Streams/CANALCOMBATE.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://logos.imperioapps.top/ESPN.png" group-title="Esportes",ESPN
 http://45.190.28.50/ESPN_HD/index.m3u8
