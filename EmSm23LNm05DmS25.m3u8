@@ -256,11 +256,17 @@ http://hls1.sua.tv/live/discoverychannelfhd/s.m3u8
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/DISCOVERY_ID.png" group-title="Documentarios",DISCOVERY ID
 http://45.185.11.126:8000/play/a089/index.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.br" tvg-name="DISCOVERY H&H" tvg-logo="https://logos.imperioapps.top/DISCOVERY_H_H.png" group-title="Documentarios",DISCOVERY H&H
+http://hls1.sua.tv/live/discoveryhehfhd/s.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://logos.imperioapps.top/DISCOVERY_SCIENCE.png" group-title="Documentarios",DISCOVERY SCIENCE
 http://45.190.28.50/DISCOVERY_SCIENCE_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO" tvg-logo="https://logos.imperioapps.top/DISCOVERY_TURBO.png" group-title="Documentarios",DISCOVERY TURBO
 http://45.190.28.50/DISCOVERY_TURBO_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD" tvg-logo="https://logos.imperioapps.top/DISCOVERY_WORLD.png" group-title="Documentarios",DISCOVERY WORLD
+http://45.190.28.50/DISCOVERY_WORLD_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/HISTORY.png" group-title="Documentarios",HISTORY
 http://170.83.16.50:80/HISTORY/index.m3u8
@@ -278,12 +284,6 @@ http://45.162.64.114/ARTE1/index.m3u8
 
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS" tvg-logo="https://logos.imperioapps.top/BIS.png" group-title="Variedades",BIS
 http://45.185.11.126:8000/play/a07w/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryHomeHealth.br" tvg-name="DISCOVERY H&H" tvg-logo="https://logos.imperioapps.top/DISCOVERY_H_H.png" group-title="Variedades",DISCOVERY H&H
-http://hls1.sua.tv/live/discoveryhehfhd/s.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD" tvg-logo="https://logos.imperioapps.top/DISCOVERY_WORLD.png" group-title="Variedades",DISCOVERY WORLD
-http://45.190.28.50/DISCOVERY_WORLD_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/FASHIONTV.png" group-title="Variedades",FASHION TV
 http://45.190.28.50/FASHION_TV_HD/index.m3u8
