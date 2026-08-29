@@ -7,7 +7,7 @@ http://45.190.28.50/BAND_HD/index.m3u8
 http://45.190.28.50/GLOBO_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://logos.imperioapps.top/sbt.png" group-title="Canais Abertos 1",SBT
-http://138.255.2.6:8084/SBT/index.m3u8
+http://45.190.28.50/SBT_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD TV" tvg-logo="https://logos.imperioapps.top/RECORD.png" group-title="Canais Abertos 1",RECORD TV
 http://45.190.28.50/RECORD/index.m3u8
@@ -19,10 +19,10 @@ http://45.190.28.50/REDE_TV_HD/index.m3u8
 http://45.162.64.114/TV_CULTURA/index.m3u8
 
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="https://logos.imperioapps.top/FUTURA.png" group-title="Canais Abertos 1",FUTURA
-http://138.255.2.6:8084/FUTURA/index.m3u8
+http://45.162.64.114/FUTURA/index.m3u8
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA" tvg-logo="https://logos.imperioapps.top/TV_GAZETA.png" group-title="Canais Abertos 1",TV GAZETA
-http://138.255.2.6:8084/GAZETA/index.m3u8
+http://45.162.64.114/GAZETA/index.m3u8
 
 
 
@@ -33,7 +33,7 @@ http://138.255.2.6:8084/GAZETA/index.m3u8
 http://45.162.64.114/AGRO_CANAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/AGRO%2B.png" group-title="Canais Abertos 2",AGRO+
-http://138.255.2.6:8084/AGROMAIS/index.m3u8
+http://45.162.64.114/AGROMAIS/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal21.br" tvg-name="CANAL 21" tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Canais Abertos 2",CANAL 21
 http://170.84.165.204:80/CANAL_21_HD/index.m3u8
@@ -51,13 +51,13 @@ http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
 http://45.162.64.114/CNT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/MUSIC_BOX.png" group-title="Canais Abertos 2",MUSIC BOX
-http://138.255.2.6:8084/MUSICBOXBRASIL/index.m3u8
+http://45.190.28.50/MUSIC_BOX_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Canais Abertos 2",NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/REDEBRASIL.png" group-title="Canais Abertos 2",REDE BRASIL
-http://138.255.2.6:8084/REDEBRASIL/index.m3u8
+http://45.190.28.50/REDE_BRASIL_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Canais Abertos 2",REDE FAMILIA
 http://168.197.104.22:80/REDE_FAMILIA/index.m3u8
@@ -90,7 +90,7 @@ http://streaming.procergs.com.br:1935/tve/stve/chunklist_w690564606.m3u8
 
 
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS" tvg-logo="https://logos.imperioapps.top/BAND_SPORTS.png" group-title="Esportes",BAND SPORTS
-http://138.255.2.6:8084/BANDSPORTS/index.m3u8
+http://45.190.28.50/BAND_SPORTS_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE" tvg-logo="https://logos.imperioapps.top/COMBATE.png" group-title="Esportes",COMBATE
 http://45.185.11.126:8000/play/a073/index.m3u8
@@ -134,7 +134,7 @@ http://45.162.64.114/WOOHOO/index.m3u8
 
 
 #EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="PREMIERE CLUBES" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="Premiere",PREMIERE CLUBES
-http://45.185.11.126:8000/play/a06g/index.m3u8
+http://79.127.238.228:14157/PremiereClubes
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="Premiere",PREMIERE 2
 http://45.185.11.126:8000/play/a07v/index.m3u8
@@ -163,13 +163,13 @@ http://45.185.11.126:8000/play/a05l/index.m3u8
 
 
 #EXTINF:-1 tvg-id="AE.br" tvg-name="A&E" tvg-logo="https://logos.imperioapps.top/A%26E.png" group-title="Filmes e Series",A&E
-http://138.255.2.6:8084/AE/index.m3u8
+http://45.190.28.50/AE_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" tvg-logo="https://logos.imperioapps.top/AMC.png" group-title="Filmes e Series",AMC
 http://45.185.11.126:8000/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN" tvg-logo="https://logos.imperioapps.top/AXN.png" group-title="Filmes e Series",AXN
-http://138.255.2.6:8084/AXN/index.m3u8
+http://45.190.28.50/AXN_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX" tvg-logo="https://logos.imperioapps.top/CINEMAX.png" group-title="Filmes e Series",CINEMAX
 http://45.190.28.50/CINEMAX/index.m3u8
@@ -196,16 +196,16 @@ http://45.190.28.50/HBO_SIGNATURE/index.m3u8
 http://45.190.28.50/HBO_PLUS/index.m3u8	
 
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME" tvg-logo="https://logos.imperioapps.top/LIFETIME.png" group-title="Filmes e Series",LIFETIME
-http://138.255.2.6:8084/LIFETIME/index.m3u8
+http://45.185.11.126:8000/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX" tvg-logo="https://logos.imperioapps.top/MEGAPIX.png" group-title="Filmes e Series",MEGAPIX
 http://177.52.24.163/MEGAPIX-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="SONY CHANNEL" tvg-logo="https://logos.imperioapps.top/SONY.png" group-title="Filmes e Series",SONY CHANNEL
-http://138.255.2.6:8084/SONY/index.m3u8
+http://45.190.28.50/SONY_HD/index.m3u8	
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/SONY.png" group-title="Filmes e Series",SONY MOVIES
-http://138.255.2.6:8084/SONYMOVIES/index.m3u8
+http://45.162.64.114/SONY_MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE" tvg-logo="https://logos.imperioapps.top/SPACE.png" group-title="Filmes e Series",SPACE
 http://45.162.64.114/SPACE/index.m3u8
@@ -232,7 +232,7 @@ http://177.52.24.163/TELECINE-PREMIUM-HD/index.m3u8
 http://177.52.24.163/TELECINE-TOUCH-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT" tvg-logo="https://logos.imperioapps.top/TNT.png" group-title="Filmes e Series",TNT
-http://138.255.2.6:8084/TNT/index.m3u8
+http://45.190.28.50/TNT_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TNT_NOVELAS.png" group-title="Filmes e Series",TNT NOVELAS
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
@@ -272,7 +272,7 @@ http://45.190.28.50/DISCOVERY_WORLD_HD/index.m3u8
 http://138.255.2.6:8084/HISTORY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/H2.png" group-title="Documentarios",HISTORY 2
-http://138.255.2.6:8084/H2/index.m3u8
+http://45.190.28.50/H2_HD/index.m3u8
 
 
 
@@ -315,7 +315,7 @@ http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8
 http://45.185.11.126:8000/play/a0a7/index.m3u8
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="RECORD NEWS" tvg-logo="https://logos.imperioapps.top/RECORD_NEWS.png" group-title="Noticias",RECORD NEWS
-http://138.255.2.6:8084/RECORDNEWS/index.m3u8
+http://45.190.28.50/RECORD_NEWS_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Noticias",CNBC
 http://45.190.28.50/CNBC/index.m3u8
@@ -329,7 +329,7 @@ http://45.190.28.50/CNBC/index.m3u8
 http://45.190.28.50/TRUTV_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/24H.png" group-title="Infantis",BOX KIDS
-http://138.255.2.6:8084/BOXKIDS/index.m3u8
+http://45.190.28.50/BOX_KIDS_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="CARTOON NETWORK" tvg-logo="https://logos.imperioapps.top/CARTOON_NETWORK.png" group-title="Infantis",CARTOON NETWORK
 http://45.190.28.50/CARTOON_HD/index.m3u8
@@ -338,7 +338,7 @@ http://45.190.28.50/CARTOON_HD/index.m3u8
 http://45.190.28.50/DISCOVERY_KIDS_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/DUMDUM.png" group-title="Infantis",DUM DUM
-http://138.255.2.6:8084/ZOOMOO/index.m3u8
+http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
 
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB" tvg-logo="https://logos.imperioapps.top/GLOOB.png" group-title="Infantis",GLOOB
 http://45.185.11.126:8000/play/a07v/index.m3u8
@@ -364,7 +364,7 @@ http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 http://45.162.64.114/NOVO_TEMPO/index.m3u8
 
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-name="REDE VIDA" tvg-logo="https://logos.imperioapps.top/REDE_VIDA.png" group-title="Religiosos",REDE VIDA
-http://138.255.2.6:8084/REDEVIDA/index.m3u8
+http://45.190.28.50/REDE_VIDA_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV APARECIDA" tvg-logo="https://logos.imperioapps.top/APARECIDA.png" group-title="Religiosos",TV APARECIDA
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/TV_Aparecida/TV_Aparecida_BR/TV_Aparecidap1080.m3u8
